@@ -9,6 +9,8 @@ Power Apps モデル駆動型アプリと Power Automate クラウドフロー�
 - [経済産業省](https://www.meti.go.jp/)
   - [安全保障貿易に係る機微技術管理ガイダンス（大学・研究機関用）第四版（令和４年２月公表）](https://www.meti.go.jp/policy/anpo/daigaku.html)
     - [Ⅸ.規程・帳票の例（word版）](https://www.meti.go.jp/policy/anpo/law_document/tutatu/t07sonota/kiteichouhyou.doc)
+  - [貨物・技術のマトリクス表](https://www.meti.go.jp/policy/anpo/matrix_intro.html)
+    - [貨物・技術の合体マトリクス表（Excel版）](https://www.meti.go.jp/policy/anpo/kanri/shyourei-matrix/gattai_matrix_20221206.xlsx)
 
 ---
 
